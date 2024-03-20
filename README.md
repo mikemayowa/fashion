@@ -15,15 +15,15 @@ Fashion MNIST is a dataset consisting of grayscale images of clothing items, eac
 ## Usage
 Clone the repository to your local machine:
 
-git clone https://github.com/your_username/fashion-mnist-cnn.git
+`git clone https://github.com/your_username/fashion-mnist-cnn.git`
 
 Navigate to the project directory:
 
-cd fashion-mnist-cnn
+`cd fashion-mnist-cnn`
 
 Execute the Python script:
 
-python fashion_mnist_cnn.py
+`python fashion_mnist_cnn.py`
 
 ## Dependencies
 Python 3.x
